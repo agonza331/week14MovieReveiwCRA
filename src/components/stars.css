@@ -1,0 +1,16 @@
+.star {
+    cursor: pointer;
+    font-size: 2rem;
+    color: gray;
+    }
+  
+  .star:hover,
+  .star.selected {
+    color: gold;
+  }
+  
+  .stars-container {
+    display: inline-flex;
+  }
+  
+  

@@ -1,0 +1,15 @@
+.review {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .review-author {
+    font-weight: bold;
+  }
+  
+  .review-content {
+    margin-top: 0.5rem;
+  }
+  

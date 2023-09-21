@@ -1,0 +1,35 @@
+.movie-card {
+    margin: 20px;
+    width: 300px;
+    background-color: lavender;
+    box-shadow: 8px 5px 8px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    
+  }
+  
+  .movie-card img {
+    width:auto;
+    height:fit-content;
+    object-fit: fill;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .card-footer {
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+    font-size: 12px;
+  }
